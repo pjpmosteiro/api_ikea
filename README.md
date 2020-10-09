@@ -1,0 +1,1 @@
+[![pipeline status](https://git.redp.icu/pablo/api-ikea/badges/master/pipeline.svg)](https://git.redp.icu/pablo/api-ikea/-/commits/master)
